@@ -1,4 +1,4 @@
-Testing! 1234
+Testing!
 =======
 
 The name says it all, the demo is:
