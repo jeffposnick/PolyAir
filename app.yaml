@@ -1,5 +1,5 @@
-application: simple-push-demo
-version: v2014-12-03
+application: browser-push-notifications
+version: 2015-01-30
 runtime: python27
 api_version: 1
 threadsafe: yes

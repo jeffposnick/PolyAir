@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "short_name": "Push Demo",
-  "name": "Push Demo",
+  "short_name": "Browser Push Notifications",
+  "name": "Browser Push Notifications",
   "start_url": "/",
   "display": "standalone",
   "launch_path": "/index.html",
-  "description": "A front-end template that helps you build fast, modern mobile web apps.",
+  "description": "A really basic demo app to show how push messaging can work with service worker.",
   "icons": [
     {
       "src": "images/touch/chrome-touch-icon-192x192.png",
@@ -14,8 +14,8 @@
     }
   ],
   "developer": {
-    "name": "Matt Gaunt",
-    "url": "https://gauntface.com"
+    "name": "Jeff Posnick",
+    "url": "https://jeffy.info"
   },
   "installs_allowed_from": [
     "*"
@@ -25,11 +25,10 @@
   },
   "locales": {
     "en": {
-      "name": "Super Simple Push Demo",
-      "description": "A really basic demo app to show how push messaging can
-      work with service worker"
+      "name": "Browser Push Notifications",
+      "description": "A really basic demo app to show how push messaging can work with service worker."
     }
   },
-  "gcm_sender_id": "653317226796",
+  "gcm_sender_id": "725841190955",
   "gcm_user_visible_only": true
 }
