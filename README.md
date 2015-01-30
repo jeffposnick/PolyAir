@@ -1,4 +1,4 @@
-Super Simple Service Worker Push Demo
+Sample Edit
 =======
 
 The name says it all, the demo is:
